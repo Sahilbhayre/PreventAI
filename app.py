@@ -6,7 +6,6 @@ import requests
 
 import streamlit as st
 import requests
-from utils.prediction import predict_diabetes
 # ---------------- PAGE CONFIG ----------------
 st.set_page_config(
     page_title="Prevent.AI",
@@ -282,3 +281,4 @@ Be supportive and clear.
 
     st.caption("⚠ PreventAI provides preventive health insights and does not replace medical diagnosis.")
     
+
