@@ -19,13 +19,9 @@ Diabetes is one of the fastest-growing lifestyle diseases worldwide.
 Early risk detection and personalized preventive guidance can significantly reduce long-term complications.
 
 However:
-
 Many people ignore early risk indicators
-
 Preventive awareness is low
-
 Health advice is often generic and not personalized
-
 PreventAI aims to bridge this gap using Machine Learning + AI guidance.
 
 ### 💡 Solution Overview
