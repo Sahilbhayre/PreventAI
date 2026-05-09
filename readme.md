@@ -1,3 +1,18 @@
+AI-Based Diabetes Risk Prediction & Prevention System
+
+PreventAI is an AI-powered healthcare prototype that predicts diabetes risk using Machine Learning and provides personalized preventive guidance through an intelligent AI assistant.
+
+Built for proactive healthcare, PreventAI combines predictive analytics with conversational AI to help users better understand and manage their health risks.
+
+🚀 Features
+🔍 Diabetes Risk Prediction
+📊 Risk Probability Analysis
+🤖 AI Health Assistant
+📂 Bulk CSV Prediction Support
+🌙 Modern Dark-Themed UI
+☁ Cloud Deployment using Streamlit
+📈 Personalized Preventive Guidance
+
 🚀 Problem Statement
 
 Diabetes is one of the fastest-growing lifestyle diseases worldwide.
@@ -138,9 +153,3 @@ Advanced ML models
 Mobile optimization
 
 Doctor integration system
-
-👨‍💻 Team
-
-Team Name: NextCore
-
-Theme: HealthTech
