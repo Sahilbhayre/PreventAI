@@ -74,6 +74,7 @@ PIMA Indians Diabetes Dataset
 - Logistic Regression Model
 
 ## 📁 Project Structure
+```plaintext
 PreventAI/
 │
 ├── app.py
@@ -103,3 +104,4 @@ It does not replace professional medical diagnosis or treatment.
 - Advanced ML models
 - Mobile optimization
 - Doctor integration system
+```
