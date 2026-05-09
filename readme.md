@@ -1,4 +1,4 @@
-### AI-Based Diabetes Risk Prediction & Prevention System
+## AI-Based Diabetes Risk Prediction & Prevention System
 PreventAI is an AI-powered healthcare prototype that predicts diabetes risk using Machine Learning and provides personalized preventive guidance through an intelligent AI assistant.
 
 Built for proactive healthcare, PreventAI combines predictive analytics with conversational AI to help users better understand and manage their health risks.
@@ -13,38 +13,30 @@ Built for proactive healthcare, PreventAI combines predictive analytics with con
 - ☁ Cloud Deployment using Streamlit
 - 📈 Personalized Preventive Guidance
 
-### 🚀 Problem Statement
+## 🚀 Problem Statement
 
 Diabetes is one of the fastest-growing lifestyle diseases worldwide.
 Early risk detection and personalized preventive guidance can significantly reduce long-term complications.
 
 However:
-Many people ignore early risk indicators
-Preventive awareness is low
-Health advice is often generic and not personalized
-PreventAI aims to bridge this gap using Machine Learning + AI guidance.
+- Many people ignore early risk indicators
+- Preventive awareness is low
+- Health advice is often generic and not personalized
+- PreventAI aims to bridge this gap using Machine Learning + AI guidance.
 
-### 💡 Solution Overview
+## 💡 Solution Overview
 
 PreventAI provides:
+- Diabetes Risk Prediction
+- Uses Logistic Regression model
+- Predicts probability of diabetes
+- Categorizes risk level (Low / Moderate / High)
+- Personalized AI Health Assistant
+- Generates preventive guidance
+- Uses user health data + risk score
+- Provides supportive and non-diagnostic advice
 
-Diabetes Risk Prediction
-
-Uses Logistic Regression model
-
-Predicts probability of diabetes
-
-Categorizes risk level (Low / Moderate / High)
-
-Personalized AI Health Assistant
-
-Generates preventive guidance
-
-Uses user health data + risk score
-
-Provides supportive and non-diagnostic advice
-
-### 🧠 System Architecture
+## 🧠 System Architecture
 
 User → Streamlit Frontend → ML Model → Risk Probability → AI Assistant → Personalized Guidance
 
