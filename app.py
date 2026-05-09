@@ -269,9 +269,8 @@ Be supportive and clear.
             else:
                 reply = "Sorry, I couldn't process that."
 
-        except:
-            reply = "AI service temporarily unavailable."
-
+        except Exception as e:
+            reply = str(e)
         st.session_state.messages.append(
             {"role": "assistant", "content": reply}
         )
