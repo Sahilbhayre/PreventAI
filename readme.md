@@ -90,7 +90,7 @@ PreventAI/
 │   └── workflow.png
 └── notebooks/
     └── model_training.ipynb
-
+```
 
 ## 🔐 Disclaimer
 
@@ -104,4 +104,3 @@ It does not replace professional medical diagnosis or treatment.
 - Advanced ML models
 - Mobile optimization
 - Doctor integration system
-```
