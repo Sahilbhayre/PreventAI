@@ -89,25 +89,14 @@ PreventAI/
 │   └── workflow.png
 └── notebooks/
     └── model_training.ipynb
-⚙ How to Run Locally
 
-Clone the repository:
 
-git clone <your-repo-link>
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-Run the app:
-
-streamlit run app.py
-🔐 Disclaimer
+## 🔐 Disclaimer
 
 PreventAI provides preventive health insights only.
 It does not replace professional medical diagnosis or treatment.
 
-### 🌍 Future Improvements
+## 🌍 Future Improvements
 - Cloud deployment
 - User authentication
 - Report upload (PDF/CSV analysis)
