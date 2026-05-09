@@ -3,7 +3,7 @@ PreventAI is an AI-powered healthcare prototype that predicts diabetes risk usin
 
 Built for proactive healthcare, PreventAI combines predictive analytics with conversational AI to help users better understand and manage potential health risks.
 
-🚀 From idea to deployment, PreventAI represents our vision of making preventive healthcare more accessible, intelligent, and user-friendly.
+🚀 From idea to deployment, PreventAI represents my vision of making preventive healthcare more accessible, intelligent, and user-friendly.
 
 ✨ “The best technology is not just built to innovate — it’s built to create real-world impact.”
 
