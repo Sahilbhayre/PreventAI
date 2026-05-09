@@ -1,4 +1,4 @@
-## AI-Based Diabetes Risk Prediction & Prevention System
+# AI-Based Diabetes Risk Prediction & Prevention System
 PreventAI is an AI-powered healthcare prototype that predicts diabetes risk using Machine Learning and provides personalized preventive guidance through an intelligent AI assistant.
 
 Built for proactive healthcare, PreventAI combines predictive analytics with conversational AI to help users better understand and manage potential health risks.
@@ -10,7 +10,7 @@ Built for proactive healthcare, PreventAI combines predictive analytics with con
 This is only Phase 1, with many more enhancements planned for the future.
 
 
-## 🚀 Features
+# 🚀 Features
 - 🔍 Diabetes Risk Prediction
 - 📊 Risk Probability Analysis
 - 🤖 AI Health Assistant
@@ -19,7 +19,7 @@ This is only Phase 1, with many more enhancements planned for the future.
 - ☁ Cloud Deployment using Streamlit
 - 📈 Personalized Preventive Guidance
 
-## 🚀 Problem Statement
+# 🚀 Problem Statement
 
 Diabetes is one of the fastest-growing lifestyle diseases worldwide.
 Early risk detection and personalized preventive guidance can significantly reduce long-term complications.
@@ -30,7 +30,7 @@ However:
 - Health advice is often generic and not personalized
 - PreventAI aims to bridge this gap using Machine Learning + AI guidance.
 
-## 💡 Solution Overview
+# 💡 Solution Overview
 
 PreventAI provides:
 - Diabetes Risk Prediction
@@ -42,13 +42,13 @@ PreventAI provides:
 - Uses user health data + risk score
 - Provides supportive and non-diagnostic advice
 
-## 🧠 System Architecture
+# 🧠 System Architecture
 
 User → Streamlit Frontend → ML Model → Risk Probability → AI Assistant → Personalized Guidance
 
 (See assets/architecture.png)
 
-## 🔄 Workflow
+# 🔄 Workflow
 
 - Collect user health details
 - Preprocess input data using scaler
@@ -58,10 +58,10 @@ User → Streamlit Frontend → ML Model → Risk Probability → AI Assistant �
 - Display results to user
 (See assets/workflow.png)
 
-## 📊 Dataset
+# 📊 Dataset
 PIMA Indians Diabetes Dataset
 
-## Features Used:
+# Features Used:
 - Pregnancies
 - Glucose
 - BloodPressure
@@ -71,7 +71,7 @@ PIMA Indians Diabetes Dataset
 - DiabetesPedigreeFunction
 - Age
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 - Python
 - Streamlit
 - Scikit-learn
@@ -79,7 +79,7 @@ PIMA Indians Diabetes Dataset
 - OpenRouter API (AI Assistant)
 - Logistic Regression Model
 
-## 📁 Project Structure
+# 📁 Project Structure
 ```plaintext
 PreventAI/
 │
@@ -103,7 +103,7 @@ PreventAI/
 PreventAI provides preventive health insights only.
 It does not replace professional medical diagnosis or treatment.
 
-## 🌍 Future Improvements
+# 🌍 Future Improvements
 - Cloud deployment
 - User authentication
 - Report upload (PDF/CSV analysis)
