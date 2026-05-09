@@ -267,7 +267,7 @@ Be supportive and clear.
             if "choices" in result:
                 reply = result["choices"][0]["message"]["content"]
             else:
-                reply = "Sorry, I couldn't process that."
+                reply = str(result)
 
         except Exception as e:
             reply = str(e)
