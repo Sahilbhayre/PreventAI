@@ -108,15 +108,9 @@ PreventAI provides preventive health insights only.
 It does not replace professional medical diagnosis or treatment.
 
 ### 🌍 Future Improvements
-
-Cloud deployment
-
-User authentication
-
-Report upload (PDF/CSV analysis)
-
-Advanced ML models
-
-Mobile optimization
-
-Doctor integration system
+- Cloud deployment
+- User authentication
+- Report upload (PDF/CSV analysis)
+- Advanced ML models
+- Mobile optimization
+- Doctor integration system
