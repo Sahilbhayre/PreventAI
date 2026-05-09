@@ -3,6 +3,7 @@ PreventAI is an AI-powered healthcare prototype that predicts diabetes risk usin
 
 Built for proactive healthcare, PreventAI combines predictive analytics with conversational AI to help users better understand and manage their health risks.
 
+
 ### 🚀 Features
 🔍 Diabetes Risk Prediction
 📊 Risk Probability Analysis
@@ -12,7 +13,7 @@ Built for proactive healthcare, PreventAI combines predictive analytics with con
 ☁ Cloud Deployment using Streamlit
 📈 Personalized Preventive Guidance
 
-🚀 Problem Statement
+### 🚀 Problem Statement
 
 Diabetes is one of the fastest-growing lifestyle diseases worldwide.
 Early risk detection and personalized preventive guidance can significantly reduce long-term complications.
@@ -27,7 +28,7 @@ Health advice is often generic and not personalized
 
 PreventAI aims to bridge this gap using Machine Learning + AI guidance.
 
-💡 Solution Overview
+### 💡 Solution Overview
 
 PreventAI provides:
 
@@ -47,13 +48,13 @@ Uses user health data + risk score
 
 Provides supportive and non-diagnostic advice
 
-🧠 System Architecture
+### 🧠 System Architecture
 
 User → Streamlit Frontend → ML Model → Risk Probability → AI Assistant → Personalized Guidance
 
 (See assets/architecture.png)
 
-🔄 Workflow
+### 🔄 Workflow
 
 Collect user health details
 
@@ -69,7 +70,7 @@ Display results to user
 
 (See assets/workflow.png)
 
-📊 Dataset
+### 📊 Dataset
 
 PIMA Indians Diabetes Dataset
 
@@ -91,7 +92,7 @@ DiabetesPedigreeFunction
 
 Age
 
-🛠 Tech Stack
+### 🛠 Tech Stack
 
 Python
 
@@ -105,7 +106,7 @@ OpenRouter API (AI Assistant)
 
 Logistic Regression Model
 
-📁 Project Structure
+### 📁 Project Structure
 PreventAI/
 │
 ├── app.py
@@ -139,7 +140,7 @@ streamlit run app.py
 PreventAI provides preventive health insights only.
 It does not replace professional medical diagnosis or treatment.
 
-🌍 Future Improvements
+### 🌍 Future Improvements
 
 Cloud deployment
 
