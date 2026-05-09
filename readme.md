@@ -42,59 +42,38 @@ User → Streamlit Frontend → ML Model → Risk Probability → AI Assistant �
 
 (See assets/architecture.png)
 
-### 🔄 Workflow
+## 🔄 Workflow
 
-Collect user health details
-
-Preprocess input data using scaler
-
-Predict diabetes risk probability
-
-Categorize risk level
-
-Generate AI-based preventive guidance
-
-Display results to user
-
+- Collect user health details
+- Preprocess input data using scaler
+- Predict diabetes risk probability
+- Categorize risk level
+- Generate AI-based preventive guidance
+- Display results to user
 (See assets/workflow.png)
 
-### 📊 Dataset
-
+## 📊 Dataset
 PIMA Indians Diabetes Dataset
 
-Features Used:
+## Features Used:
+- Pregnancies
+- Glucose
+- BloodPressure
+- SkinThickness
+- Insulin
+- BMI
+- DiabetesPedigreeFunction
+- Age
 
-Pregnancies
+## 🛠 Tech Stack
+- Python
+- Streamlit
+- Scikit-learn
+- Pandas / NumPy
+- OpenRouter API (AI Assistant)
+- Logistic Regression Model
 
-Glucose
-
-BloodPressure
-
-SkinThickness
-
-Insulin
-
-BMI
-
-DiabetesPedigreeFunction
-
-Age
-
-### 🛠 Tech Stack
-
-Python
-
-Streamlit
-
-Scikit-learn
-
-Pandas / NumPy
-
-OpenRouter API (AI Assistant)
-
-Logistic Regression Model
-
-### 📁 Project Structure
+## 📁 Project Structure
 PreventAI/
 │
 ├── app.py
